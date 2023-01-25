@@ -4,6 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: IITD Research  # Website name
+url: 'https://mohitsharma-95.github.io/iitd_research_lab/'
 baseURL: '/research-lab-iitd/'
 
 ############################
