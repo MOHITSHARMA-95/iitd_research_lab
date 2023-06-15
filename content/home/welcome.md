@@ -11,7 +11,6 @@ design:
   css_class: fullscreen
   background:
     image: ""
-hero_media: 
 text:
   <br>
 
