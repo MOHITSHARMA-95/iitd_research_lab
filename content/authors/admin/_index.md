@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position
 role: Professor of Artificial Intelligence
-<a href="https://example.com">{{ .title }}</a>
+
 
 # Organizations/Affiliations
 
