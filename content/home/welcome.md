@@ -6,7 +6,7 @@ weight: 20
 
 title: "Computing and Society Lab "
 content:
-  count: 5
+  count: 0
   filters:
     author: ''
     category: ''
