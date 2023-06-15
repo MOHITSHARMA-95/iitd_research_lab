@@ -9,16 +9,32 @@
 
 sections:
   - block: hero
-      content:
-        title: |
-  Wowchemy  
-  Research Group
+    content:
+      title: |
+        Wowchemy
+        Research Group
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
-        text: |
-          The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since itsfounding in 2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
-    design:
-      columns: '1'
+
+
+# sections:
+#  - block: hero
+#      content:
+#        title: |
+#  Wowchemy  
+#  Research Group
+
+#        text: |
+#          The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in #2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in #2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since itsfounding in #2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+#    design:
+#      columns: '1'
     
 ---
 
