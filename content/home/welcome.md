@@ -6,16 +6,17 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
+sections:
+  - block: hero
+      content:
+        title: |
   Wowchemy  
   Research Group
-hero_media: 
-text: |
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
+        text: |
+          The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in            2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its                   founding in 2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice si              itsfounding in 2016.
+          The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in            2016.
+    
 ---
 
 <br>
