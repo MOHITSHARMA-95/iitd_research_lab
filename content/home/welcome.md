@@ -4,7 +4,7 @@ widget: hero
 headless: true
 widget_id: Research Lab CSE/SIT IIT Delhi
 active: True
-weight: 100
+weight: 20
 
 title: "Computing and Society Lab "
 design:
