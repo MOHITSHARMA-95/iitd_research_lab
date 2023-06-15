@@ -1,18 +1,29 @@
 ---
-widget: hero
-widget_id: Research Lab CSE/SIT IIT Delhi
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 headless: true
 weight: 20
+
 title: "Computing and Society Lab "
-active: true
+subtitle:
+
+content:
+  count: 5
+  filters:
+    author: ''
+    category: ''
+    exclude_featured: false
+    publication_type: ''
+    tag: ''
+  offset: 0
+  order: desc
+  page_type: post
 design:
-  columns: "1"
-  css_style: null
-  css_class: fullscreen
-  background:
-    image: ""
+  view: 3
+  columns: '1'
+  
 text:
-  Considering the all-pervasive impact of AI algorithms in our societal lives, it is desirable that these algorithms embed the values/norms we have as a society, and different members of the population should not be disproportionately impacted by the algorithmic decisions. 
+    Considering the all-pervasive impact of AI algorithms in our societal lives, it is desirable that these algorithms embed the values/norms we have as a society, and different members of the population should not be disproportionately impacted by the algorithmic decisions. 
 <br>
 While legal scrutiny and legislations like GDPR go a long way in protecting the vulnerable citizens, rapidly changing technologies (such as the recent advances in Large Language Models and Generative AI) may already have a far-reaching impact before legal deliberations start taking place.
 
