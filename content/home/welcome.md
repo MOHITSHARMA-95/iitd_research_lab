@@ -1,42 +1,23 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-# widget: hero # See https://wowchemy.com/docs/page-builder/
-# headless: true # This file represents a page section.
-# weight: 10 # Order that this section will appear.
-
-sections:
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016. 
-
-
-
-
-# sections:
-#  - block: hero
-#      content:
-#        title: |
-#  Wowchemy  
-#  Research Group
-
-#        text: |
-#          The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in #2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in #2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since itsfounding in #2016.The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-
-#    design:
-#      columns: '1'
-    
+widget: hero
+widget_id: Research Lab CSE/SIT IIT Delhi
+headless: true
+weight: 20
+title: "Computing and Society Lab "
+active: true
+design:
+  columns: ""
+  css_style: null
+  css_class: null
+  background:
+    image: ""
+hero_media: 
 ---
-
 <br>
 
+Considering the all-pervasive impact of AI algorithms in our societal lives, it is desirable that these algorithms embed the values/norms we have as a society, and different members of the population should not be disproportionately impacted by the algorithmic decisions. 
+<br>
+While legal scrutiny and legislations like GDPR go a long way in protecting the vulnerable citizens, rapidly changing technologies (such as the recent advances in Large Language Models and Generative AI) may already have a far-reaching impact before legal deliberations start taking place.
+
+<br>
+In the Computing and Society Lab (CSL) at IIT Delhi, our aim is to continuously monitor new platforms and technologies to understand whether there is any potential cause for concern, and then develop mechanisms to eliminate or reduce the impact. Towards this, we are working closely with the Government, Technology companies and Start-ups as well as non-profits working in the social sector.
