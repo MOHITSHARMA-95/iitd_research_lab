@@ -3,7 +3,8 @@ title:
 subtitle:
 widget: blank
 headless: true
-weight: 40
+active: True
+weight: 20
 text:
     Considering the all-pervasive impact of AI algorithms in our societal lives, it is desirable that these algorithms embed the values/norms we have as a society, and different members of the population should not be disproportionately impacted by the algorithmic decisions. 
   <br>
