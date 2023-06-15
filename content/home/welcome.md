@@ -8,7 +8,7 @@ weight: 100
 
 title: "Computing and Society Lab "
 design:
-  columns:"1"
+  columns: 1
 
 ---
 <h5 style="text-align: justify; width: 100 %">
